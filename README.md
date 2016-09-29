@@ -1,10 +1,8 @@
-# The Title
+# Transition Effect with CSS Masks
 
-*Description*, *author*
+[Article on Codrops](http://tympanus.net/codrops/2016/09/29/transition-effect-with-css-masks/)
 
-[Article on Codrops]()
-
-[Demo]()
+[Demo](http://tympanus.net/Tutorials/CSSMaskTransition/)
 
 ## License
 
